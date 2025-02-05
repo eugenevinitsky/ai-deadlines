@@ -13,6 +13,20 @@
   sub: ML
   note: Abstract deadline on October 3, 2024. More info <a href='https://aistats.org/aistats2025/call-for-papers.html'>here</a>
 
+- title: RLC
+  year: 2025
+  id: rlc25
+  link: https://rl-conference.cc/index.html
+  deadline: '2025-02-21 23:59:59'
+  abstract_deadline: '2024-02-14 23:59:59'
+  timezone: UTC-12
+  place: Edmonton, Canada
+  date: August 05-08, 2025
+  start: 2025-08-05
+  end: 2025-08-08
+  sub: ML/RL
+  note: Abstract deadline on February 14 2025. More info <a href='https://rl-conference.cc/'>here</a>
+
 - title: CVPR
   year: 2025
   id: cvpr25
